@@ -6,7 +6,7 @@ import Data as Data
 import ImportData as ImportData
 
 
-# bleu blanc rouge francois le francais
+
 def Main():
     Menu()
 
