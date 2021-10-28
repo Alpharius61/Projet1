@@ -1,0 +1,14 @@
+
+{
+    "Symbol": "💂",
+    "Forground" : "BLACK",
+    "Background" : "GREEN",
+    "Alive" : true,
+    "Hunger" : 100,
+    "Thirst" : 100,
+    "Stamina" : 100,
+    "X" : 0,
+    "Y" : 0,
+    "Chance" : 80
+    
+}

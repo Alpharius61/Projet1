@@ -1,0 +1,40 @@
+
+{
+   "sphinx":
+   {
+        "TryNumber" : "20",
+        "search" : 3
+        
+    },
+
+   "Cesar":
+    {
+        "Alphabet": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N",
+                    "O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+
+ 
+    },
+    
+    "Fizz'Buzz" :
+    {
+        "Chef" : 80,
+        "Gibon" : 60,
+        "Gorille" : 60,
+        "Chimpanzé" : 60,
+        "Bonobo" : 60,
+        "Babouin" : 60,
+        "Capucin" : 60,
+        "Macaque" : 60
+
+    }
+ 
+ 
+ 
+}  
+
+
+
+
+
+
+

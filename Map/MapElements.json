@@ -1,0 +1,184 @@
+{    "m": {
+
+        "Symbol" : " ",
+        "Name": "une montagne",
+        "Foreground" : "",
+        "Background" : "WHITE",
+        "CanWalk" : false
+
+    },
+    "p": {
+        
+        "Symbol" : " ",
+        "Name": "plaine",
+        "Foreground" : "",
+        "Background" : "GREEN",
+        "CanWalk" : true
+
+    },
+    "j": {
+
+        "Symbol" : "░",
+        "Name": "une jungle",
+        "Foreground" : "GREEN",
+        "Background" : "",
+        "CanWalk" : false
+
+    },
+    "s": {
+        
+        "Symbol" : " ",
+        "Name": "sable",
+        "Foreground" : "",
+        "Background" : "YELLOW",
+        "CanWalk" : true
+        
+    },
+    "S": {
+        
+        "Symbol" : " ",
+        "Name": "sable",
+        "Foreground" : "",
+        "Background" : "YELLOW",
+        "CanWalk" : true
+        
+    },
+    "o": {
+
+        "Symbol" : "░",
+        "Name": "l'ocean",
+        "Foreground" : "BLUE",
+        "Background" : "",
+        "CanWalk" : false
+
+
+    },
+    "e": {
+
+        "Symbol" : "░",
+        "Name": "eau",
+        "Foreground" : "",
+        "Background" : "BLUE",
+        "CanWalk" : true
+
+
+    },
+    "c": {
+
+        "Symbol" : "🐷",
+        "Name": "Pig",
+        "Foreground" : "",
+        "Background" : "GREEN",
+        "CanWalk" : true
+
+
+    },
+    "E": {
+
+        "Symbol" : "X",
+        "Name": "Sphinx",
+        "Foreground" : "PURPLE",
+        "Background" : "GREEN",
+        "CanWalk" : true
+
+    },
+    "C": {
+
+        "Symbol" : "X",
+        "Name": "Cesar",
+        "Foreground" : "PURPLE",
+        "Background" : "GREEN",
+        "CanWalk" : true
+
+    },
+    "F": {
+
+        "Symbol" : "X",
+        "Name": "FizzBuzz",
+        "Foreground" : "PURPLE",
+        "Background" : "GREEN",
+        "CanWalk" : true
+
+    },
+    "P": {
+
+        "Symbol" : "🚪",
+        "Name": "Door",
+        "Foreground" : "WHITE",
+        "Background" : "WHITE",
+        "CanWalk" : false
+
+    },
+    "║" :{
+
+        "Symbol" : "║",
+        "Name": "HUD vertical",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    "═" :{
+
+        "Symbol" : "═",
+        "Name": "HUD latéral",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    "╔" :{
+
+        "Symbol" : "╔",
+        "Name": "HUD angle1",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    "╗" :{
+
+        "Symbol" : "╗",
+        "Name": "HUD angle2",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    "╝" :{
+
+        "Symbol" : "╝",
+        "Name": "HUD angle3",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    "╚" :{
+
+        "Symbol" : "╚",
+        "Name": "HUD angle4",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    "╦" :{
+
+        "Symbol" : "╦",
+        "Name": "HUD middle1",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    "╩" :{
+
+        "Symbol" : "╩",
+        "Name": "HUD middle2",
+        "Foreground" : "WHITE",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    },
+    " " :{
+
+        "Symbol" : " ",
+        "Name": "Space",
+        "Foreground" : "BLACK",
+        "Background" : "BLACK",
+        "CanWalk" : false
+    }
+}
