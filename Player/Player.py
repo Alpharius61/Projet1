@@ -59,9 +59,9 @@ def ActionOfPlayer():
     elif Data.Action == "B":
         PositionY += 1
     elif Data.Action == "G":
-        PositionX -= 2
+        PositionX -= 1
     elif Data.Action == "D":
-        PositionX += 2
+        PositionX += 1
    
     # check if movement is valid
     MapElementAtPlayerPosition = Data.MapData[PositionY - 1][PositionX - 1]

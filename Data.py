@@ -36,7 +36,7 @@ Message = ""
 
 WaterInventory = []
 HungryInventory = []
-KeysInventory = [1,1,1]
+KeysInventory = []
 
 #------------Quest Variable--------------#
 # General

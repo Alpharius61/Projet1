@@ -17,12 +17,12 @@ def Menu():
     Userchoose =""
     while Userchoose != 'Q':
         Userchoose = input("""
-        (N)ouvelle partie        
+        (J)ouer
         (Q)uitter
      
         """).upper()
 
-        if Userchoose == 'N':
+        if Userchoose == 'J':
             PlayGame()
 
         if Userchoose == 'Q':
